@@ -22,5 +22,5 @@
 
 ꜱᴛʀɪɴɢ ɴᴀᴍᴇ:
 
-[![GenerateString](https://t.me/agora_ssgenbot)
+[<p align="center"><a href="https://t.me/agora_ssgenbot"> <img src="https://img.shields.io/badge/STRING%20To%20GENERATOR-grey?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
