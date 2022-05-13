@@ -1,12 +1,12 @@
 {
-  "name": "Music Bot",
-  "description": "Open-Source & Best Music bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
+  "name": "𝐀𝐆𝐎𝐑𝐀 𝐕𝐂𝐗",
+  "description": "Open-Source & Best Music bot to play songs in your Telegram's Group Voice Chat. Powered by Mr and Mrs Agora.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/LEGENDARY-OS/MUSIC-BOT",
+  "repository": "https://github.com/MR-KANNADIGA/VCX",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
-      "description": "Pyrogram session string",
+      "description": "Pyrogram session string @Agora_SSGENbot",
       "required": true
     },
     "BOT_TOKEN": {
@@ -37,7 +37,7 @@
     "DURATION_LIMIT": {
       "description": "Max audio duration limit for downloads (minutes) i suggest 20-30 min.",
       "required": true,
-      "value": "20"
+      "value": "30"
     }
   }
 }
