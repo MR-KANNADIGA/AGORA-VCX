@@ -15,15 +15,15 @@
 
 # ᴏᴡɴᴇʀ ᴏғ ᴠᴄx ʀᴏʙᴏᴛ
 
-<p align="center"><a href="https://t.me/mr_agora"> <img src="https://img.shields.io/badge/MR%20To%20AGORA-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/AGORA_ROBOTS"> <img src="https://img.shields.io/badge/AGORA%20ROBOTS-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 # sᴜᴘᴘᴏʀᴛ ᴄʜᴇɴɴᴀʟ
 
-<p align="center"><a href="https://t.me/agora_robot"> <img src="https://img.shields.io/badge/AGORA%20To%20ROBOTS-brown?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/MR_AGORA"> <img src="https://img.shields.io/badge/MR%20AGORA-white?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
 # ᴄʀᴇᴅɪᴛs ғᴏʀ
 
-<p align="center"><a href="https://t.me/agora_ssgenbot"> <img src="https://img.shields.io/badge/STRING%20To%20GENERATOR-orange?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/MRS_AGORA"> <img src="https://img.shields.io/badge/MR%20AGORA-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
