@@ -20,12 +20,12 @@
 
 # ᴏᴡɴᴇʀ ᴏғ ᴠᴄx ʙᴏᴛ
 
-<p align="center"><a href="https://t.me/MR_AGORA"><img src="https://img.shields.io/badge/MR%20AGORA-white?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/MR_AGORA"><img src="https://img.shields.io/badge/MR%20AGORA-white?style=for-the-badge&logo=love" width="220" height="38.45"/></a></p>
 
 
 # ᴄᴏ ᴏᴡɴᴇʀ ᴏғ ᴠᴄx ʙᴏᴛ
 
-<p align="center"><a href="https://t.me/MRS_AGORA"> <img src="https://img.shields.io/badge/MRS%20AGORA-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://t.me/MRS_AGORA"> <img src="https://img.shields.io/badge/MRS%20AGORA-purple?style=for-the-badge&logo=love" width="220" height="38.45"/></a></p>
 
 
 
