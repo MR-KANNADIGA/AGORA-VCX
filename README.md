@@ -13,17 +13,17 @@
 
 <p align="center"><a href="https://t.me/agora_ssgenbot"> <img src="https://img.shields.io/badge/STRING%20To%20GENERATOR-orange?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-# ᴏᴡɴᴇʀ ᴏғ ᴠᴄx ʀᴏʙᴏᴛ
+# sᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴄʜᴀɴɴᴀʟ
 
 <p align="center"><a href="https://t.me/AGORA_ROBOTS"> <img src="https://img.shields.io/badge/AGORA%20ROBOTS-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-# sᴜᴘᴘᴏʀᴛ ᴄʜᴇɴɴᴀʟ
+# ᴏᴡɴᴇʀ ᴏғ ᴠᴄx ʙᴏᴛ
 
 <p align="center"><a href="https://t.me/MR_AGORA"> <img src="https://img.shields.io/badge/MR%20AGORA-white?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
 
-# ᴄʀᴇᴅɪᴛs ғᴏʀ
+# ᴄᴏ ᴏᴡɴᴇʀ ᴏғ ᴠᴄx ʙᴏᴛ
 
 <p align="center"><a href="https://t.me/MRS_AGORA"> <img src="https://img.shields.io/badge/MR%20AGORA-purple?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
