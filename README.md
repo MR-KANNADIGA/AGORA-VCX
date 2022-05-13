@@ -13,7 +13,7 @@
 
 <p align="center"><a href="https://t.me/agora_ssgenbot"> <img src="https://img.shields.io/badge/STRING%20To%20GENERATOR-orange?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
-# sᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴄʜᴀɴɴᴀʟ
+# sᴜᴘᴘᴏʀᴛ ᴀɴᴅ ᴄʜᴀɴɴᴇʟ
 
 <p align="center"><a href="https://t.me/AGORA_ROBOTS"> <img src="https://img.shields.io/badge/AGORA%20ROBOTS-green?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 
