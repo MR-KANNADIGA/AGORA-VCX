@@ -13,7 +13,7 @@
 
 ## ᴅᴇᴘʟᴏʏ ʀᴀɪʟᴡᴀʏ ꜱᴇʀᴠᴇʀ </h4>
 
-<p align="center"><a [![Deploy+To+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/MR-KANNADIGA/VCX&envs=SESSION_NAME,BOT_TOKEN,BOT_NAME,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT,MASTER_USERNAME) height="38.45"/></a></p>
+<p align="center"><a[![Deploy+To+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/MR-KANNADIGA/VCX&envs=SESSION_NAME,BOT_TOKEN,BOT_NAME,API_ID,API_HASH,SUDO_USERS,DURATION_LIMIT,MASTER_USERNAME)/></a></p>
 
 ## ꜱᴛʀɪɴɢ ɴᴀᴍᴇ:
 
